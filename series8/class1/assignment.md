@@ -45,4 +45,4 @@ We didn't exactly cover the next three in class. You'll have to Google up how to
 
 * * *
 
-[Solution](http://jeffreyatw.github.io/fwd-assignments/series8/class2/solution/)
+[Solution](http://jeffreyatw.github.io/fwd-assignments/series8/class1/solution/)
